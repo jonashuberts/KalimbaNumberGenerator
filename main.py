@@ -1,4 +1,4 @@
-#erfolgreich oder nicht anzeige nach generieren
+#Todo: Success display after generation. Write notes played at the same time in brackets
 from tkinter import Tk, Label, Radiobutton, IntVar, Button, filedialog
 import mido
 
